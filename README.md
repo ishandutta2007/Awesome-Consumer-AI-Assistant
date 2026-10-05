@@ -61,9 +61,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated list of production-grade, self-hosted, and local consumer AI tools sorted by GitHub star count in descending order.
+Below is a curated list of production-grade, self-hosted, and local consumer AI tools sorted by GitHub Stars_Count in descending order.
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |:---|:---|:---:|
 | **[Llama.cpp](https://github.com/ggerganov/llama.cpp)** ⚡ | **Fastest & lightest LLM inference engine in C/C++.** Enables high-performance local AI inference on minimal consumer hardware with GGUF quantization. | [![Stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social&color=white)](https://github.com/ggerganov/llama.cpp/stargazers) |
 | **[Ollama](https://github.com/ollama/ollama)** 🦙 | **Simplest way to get up and running with local LLMs.** Provides a single CLI/daemon binary, GGUF model library, and OpenAI-compatible HTTP API. | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) |
